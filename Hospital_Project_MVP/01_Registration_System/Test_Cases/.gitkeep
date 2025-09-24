@@ -1,0 +1,12 @@
+# Test Cases
+
+This directory will contain:
+- Unit tests for registration functions
+- Integration tests for authentication
+- End-to-end test scenarios
+- Performance test cases
+
+Files to be added:
+- registration_tests.js
+- auth_integration_tests.py
+- e2e_test_scenarios.md

@@ -1,0 +1,12 @@
+# API Documentation
+
+This directory will contain:
+- Registration API specifications
+- Authentication endpoint documentation
+- OpenAPI/Swagger definitions
+- Postman collections
+
+Files to be added:
+- registration_api.yaml
+- auth_endpoints.md
+- postman_collection.json

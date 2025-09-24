@@ -1,0 +1,12 @@
+# Validation Rules
+
+This directory will contain:
+- Form field validation logic
+- Business rule implementations
+- Data sanitization functions
+- Cross-field validation rules
+
+Files to be added:
+- field_validators.js
+- business_rules.py
+- form_validation_schema.json
