@@ -1,0 +1,13 @@
+# Frontend Integration
+
+This directory will contain:
+- React/Vue.js components
+- Frontend routing configuration
+- State management setup
+- UI component library
+
+Files to be added:
+- app.js
+- components/
+- routes.js
+- store/

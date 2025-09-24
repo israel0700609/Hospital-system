@@ -1,0 +1,12 @@
+# Database Schema
+
+This directory will contain:
+- ERD diagrams for user tables
+- SQL schema creation scripts
+- Database migration files
+- Index optimization scripts
+
+Files to be added:
+- users_schema.sql
+- authentication_erd.png
+- migration_001_create_users.sql

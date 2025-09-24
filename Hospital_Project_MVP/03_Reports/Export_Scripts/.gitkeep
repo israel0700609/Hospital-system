@@ -1,0 +1,12 @@
+# Export Scripts
+
+This directory will contain:
+- CSV export utilities
+- PDF generation scripts
+- Excel export functions
+- Data formatting tools
+
+Files to be added:
+- csv_exporter.py
+- pdf_generator.js
+- excel_export_utility.py

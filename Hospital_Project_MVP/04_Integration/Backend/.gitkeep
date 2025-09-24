@@ -1,0 +1,13 @@
+# Backend Services
+
+This directory will contain:
+- API server implementation
+- Business logic services
+- Authentication middleware
+- Request validation
+
+Files to be added:
+- server.js
+- routes/
+- services/
+- middleware/

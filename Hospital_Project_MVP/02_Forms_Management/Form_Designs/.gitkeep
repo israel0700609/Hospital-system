@@ -1,0 +1,12 @@
+# Form Designs
+
+This directory will contain:
+- HTML/CSS form templates
+- Form layout specifications
+- Field definitions and types
+- Mobile-responsive form designs
+
+Files to be added:
+- patient_admission_form.html
+- medical_history_form.html
+- consent_form_template.html

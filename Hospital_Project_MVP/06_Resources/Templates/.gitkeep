@@ -1,0 +1,13 @@
+# Templates
+
+This directory will contain:
+- Email notification templates
+- Report layout templates
+- Document templates
+- Print layout designs
+
+Files to be added:
+- email_templates/
+- report_layouts/
+- document_templates/
+- print_layouts/

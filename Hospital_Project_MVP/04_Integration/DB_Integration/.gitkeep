@@ -1,0 +1,13 @@
+# Database Integration
+
+This directory will contain:
+- Database connection configuration
+- ORM model definitions
+- Migration scripts
+- Database utilities
+
+Files to be added:
+- db_config.js
+- models/
+- migrations/
+- utils/
